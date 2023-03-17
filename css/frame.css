@@ -1292,7 +1292,7 @@ ol.nested>li:before {
   .menu-items a {
     width: 100%;
     padding: 10px 0;
-    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    border-top: 1px solid rgba(94, 148, 212, 0.5);  <!-- (255, 255, 255, 0.5)-->
   }
 
   .menu-button {
