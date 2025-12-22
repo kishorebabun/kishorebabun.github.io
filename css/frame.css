@@ -185,6 +185,15 @@ hr {
   overflow-x: auto;
 }
 
+
+.left-content {
+    margin-left: 0;
+    padding-left: 10px;
+    width: 100%;
+    text-align: left;
+}
+
+
 .content p a,
 .content ul a,
 .content ol a {
